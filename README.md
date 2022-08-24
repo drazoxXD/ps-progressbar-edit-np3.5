@@ -11,7 +11,7 @@ Original CSS https://github.com/xViperAG/ps-css-edits/tree/main/progressbar
 
 - As i know you just need to drag & drop 
 
-##Orginial setup
+## Orginial setup
 -Drag&Drop
 -Go to qb-core and found clint/function.lua
 -Find progressbar function and replace it with this down here!
